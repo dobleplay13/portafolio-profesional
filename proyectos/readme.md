@@ -1,5 +1,5 @@
 
-# Adecuador de señal para sensor (MQX)
+# Adecuador de señal para sensor (MCX - MQX)
 
 ## Descripción
 Este proyecto consiste en el diseño e implementación de un circuito adecuador de señal para un sensor de gas MQ circular SMD. El circuito permite acondicionar la señal del sensor para que pueda ser leída correctamente por un microcontrolador o sistema de adquisición de datos.
