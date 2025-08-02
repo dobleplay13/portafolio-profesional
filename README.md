@@ -26,7 +26,7 @@ SOFTWARE.
 
 Hola, soy Christian Durango 👋
 
-## Ingeniero Electrónico | Desarrollador de Prototipos y Sistemas Embebidos 
+## Ingeniero Electrónico | Desarrollador de Prototipos y Sistemas Embebidos | Analista de datos
 
 ¡Bienvenido a mi portafolio! Soy ingeniero electrónico graduado de la Universidad San Buenaventura de Cali, con experiencia en el desarrollo de proyectos independientes para clientes emprendedores y proyectos complejos. Aunque muchos de mis trabajos no pueden ser mostrados debido a acuerdos de confidencialidad, puedes tener plena confianza en mi capacidad para entregar soluciones innovadoras y de alta calidad.
 
