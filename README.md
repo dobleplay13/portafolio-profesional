@@ -26,7 +26,7 @@ SOFTWARE.
 
 Hola, soy Christian Durango 👋
 
-## Ingeniero Electrónico | Desarrollador de Prototipos y Sistemas Embebidos
+## Ingeniero Electrónico | Desarrollador de Prototipos y Sistemas Embebidos 
 
 ¡Bienvenido a mi portafolio! Soy ingeniero electrónico graduado de la Universidad San Buenaventura de Cali, con experiencia en el desarrollo de proyectos independientes para clientes emprendedores y proyectos complejos. Aunque muchos de mis trabajos no pueden ser mostrados debido a acuerdos de confidencialidad, puedes tener plena confianza en mi capacidad para entregar soluciones innovadoras y de alta calidad.
 
@@ -46,9 +46,23 @@ Aunque muchos de mis proyectos son confidenciales, aquí hay algunos ejemplos de
 - **Sistema de monitoreo ambiental**: Desarrollo de un prototipo para medir variables ambientales usando sensores y microcontroladores.
 - **Seguimiento GNSS**: Implementación de un sistema de seguimiento en tiempo real con sensores GNSS y comunicación inalámbrica.
 
+- # Embedded systems
+  * conversor de 2.5V a 5V.
+  * sistema de alerta temprana.
+
+- # 📊 Data Analytics 
+  * proyecto_de_Análisis_del_Servicio_dontológico_a_través_de_Datos_en_Cirugías_Maxilofaciales_y_Ortodoncia
+
+## 🛠️ Tools & Technologies
+
+- Python (Pandas, Matplotlib, Seaborn)
+- Power BI
+- Excel
+- Jupyter Notebooks
+
+## 📫 Contact
+
 ### ¿Quieres trabajar conmigo?
 Si estás buscando un profesional confiable y con experiencia para llevar tus ideas al siguiente nivel, ¡no dudes en contactarme! Estoy listo para colaborar en proyectos desafiantes y entregar soluciones que marquen la diferencia.
-
-## Contacto
 - 📧 Email: chrisdugo97@hotmail.com
 - 💼 LinkedIn: www.linkedin.com/in/christian-andres-durango-gonzalez-372904302
